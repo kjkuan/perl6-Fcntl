@@ -1,4 +1,5 @@
 {
+  "auth"          :  "github:kjkuan",
   "authors"       : [ "Mike Stemle, Jr." ],
   "perl"          : "6.*",
   "name"          : "Fcntl",
